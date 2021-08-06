@@ -1,0 +1,12 @@
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\bin\Debug\file\custom.css
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\bin\Debug\LINE_Backup_Restore.exe.config
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\bin\Debug\LINE_Backup_Restore.exe
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\bin\Debug\LINE_Backup_Restore.pdb
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\obj\Debug\LINE_Backup_Restore.Form1.resources
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\obj\Debug\LINE_Backup_Restore.form.backup.resources
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\obj\Debug\LINE_Backup_Restore.form.backup_aplit.resources
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\obj\Debug\LINE_Backup_Restore.Properties.Resources.resources
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\obj\Debug\LINE_Backup_Restore.csproj.GenerateResource.cache
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\obj\Debug\LINE_Backup_Restore.csproj.CoreCompileInputs.cache
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\obj\Debug\LINE_Backup_Restore.exe
+D:\作業用\C#\LINE_Backup_Restore\LINE_Backup_Restore\obj\Debug\LINE_Backup_Restore.pdb
